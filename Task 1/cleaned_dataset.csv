@@ -1,0 +1,13 @@
+CustomerID,Name,Age,Gender,City,SignupDate,PurchaseAmount,Email
+1,John Smith,28,Male,New York,2026-01-15,250.5,john.smith@email.com
+2,Jane Doe,33,Female,Los Angeles,2026-01-16,180.0,jane.doe@email.com
+3,Bob Johnson,35,Male,Chicago,2026-01-17,284.71,bob.j@email.com
+4,Alice Brown,42,Female,New York,2026-01-18,320.75,alice.brown@email.com
+5,Mike Davis,29,Male,Chicago,2026-01-19,150.0,mike.davis@email.com
+6,Sarah Wilson,33,Female,Houston,2026-01-20,275.25,sarah.wilson@email.com
+7,Tom Anderson,45,Male,Houston,2026-01-21,284.71,tom.anderson@email.com
+8,Emma Taylor,31,Female,Los Angeles,2026-01-22,410.0,emma.taylor@email.com
+10,Linda Garcia,27,Female,Chicago,2026-01-24,225.0,linda.garcia@email.com
+11,Kevin White,50,Male,Houston,2026-01-25,600.0,missing@unknown.com
+12,Nancy Lee,33,Female,New York,2026-01-26,145.6,nancy.lee@email.com
+13,David Clark,33,Male,Los Angeles,2026-01-27,290.0,david.clark@email.com
